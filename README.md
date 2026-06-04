@@ -1,1 +1,1 @@
-# SmartPark - Sistema de Gestión de Estacionamiento Inteligente prueba 2
+# SmartPark - Sistema de Gestión de Estacionamiento Inteligente
